@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "todolist-redux",
+=======
+  "name": "vanilla-redux",
+>>>>>>> 09d8a3512885fa318fa3ccf93e7f5fcc8bd86ba7
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,8 +12,11 @@
     "@testing-library/user-event": "^12.1.10",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+<<<<<<< HEAD
     "react-redux": "^7.2.2",
     "react-router-dom": "^5.2.0",
+=======
+>>>>>>> 09d8a3512885fa318fa3ccf93e7f5fcc8bd86ba7
     "react-scripts": "4.0.3",
     "redux": "^4.0.5",
     "web-vitals": "^1.0.1"
